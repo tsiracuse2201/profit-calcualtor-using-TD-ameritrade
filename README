@@ -1,0 +1,2 @@
+Not much too this. model for calculating trading profits instantly given a sheet transactions list from TD ameritrade. 
+If a value is negative and there are no positives, that means that it has not been sold yet
